@@ -6,7 +6,7 @@ Currently, I'm diving deep into **Backend Development using Java**, while buildi
 
 I mostly work with **Java** for software architecture and **Python** for AI projects.
 
-This profile is where I document my **learning journey**—from university assignments to backend experiments. Everything here is about **learning, breaking, and improving**.
+This profile is where I document my **learning journey** from university assignments to backend experiments. Everything here is about **learning, breaking, and improving**.
 
 ---
 
