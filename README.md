@@ -1,39 +1,27 @@
-# Hi there 👋
+# Hi there, I'm Seifeddine Bengana
 
-I'm **Seifeddine Bengana**, an AI student in my **second semester**, based in **Linz, Austria**.
+**AI Student @ JKU Linz | Focusing on Data Engineering**
 
-Currently, I'm diving deep into **Backend Development using Java**, while building my foundation in **Artificial Intelligence**.
+I'm currently in my 3rd semester studying Artificial Intelligence at Johannes Kepler University (JKU). While my degree covers a lot of the heavy math and machine learning algorithms, I quickly realized that AI isn't much use without solid data infrastructure. 
 
-I mostly work with **Java** for software architecture and **Python** for AI projects.
+That's why I'm spending my time outside of class diving deep into Data Engineering. I actually really enjoy the behind the scenes work building ETL pipelines, writing web scrapers, and cleaning up messy datasets so they can actually be used for something valuable.
 
-This profile is where I document my **learning journey** from university assignments to backend experiments. Everything here is about **learning, breaking, and improving**.
+## About Me
+- **Studying:** 3rd Semester Artificial Intelligence at JKU Linz.
+- **What I do:** I build automated data pipelines, process data efficiently, and create interactive dashboards.
+- **Currently learning:** Advanced Data Engineering concepts, cloud workflows, and getting better at columnar storage formats like Parquet.
+- **Looking for:** Internships or working student positions in Data Engineering, Data Infrastructure, or Backend Development here in Austria.
 
----
+## Tech Stack
+- **Languages:** Python, Java, SQL
+- **Data Processing:** Pandas, NumPy, PyArrow (Parquet), BeautifulSoup4, Requests
+- **Visualization:** Streamlit, Plotly
+- **Tools:** Git, GitHub, VS Code
 
-## 🛠 Tools & Tech
 
-**Core Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Learning:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Environment:**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Samsung Notes](https://img.shields.io/badge/Samsung%20Notes-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
-
----
-
-## 📖 About Me
-
-- 🎓 **Status:** Surviving 2nd Semester AI  
-- ☕ **Fuel:** Coffee / Tea / Water is my coding partner  
-- 💪 **Hobby:** Gym  
-- 📺 **Interests:** Anime, Gaming (*One Piece*, *The Witcher 3*)  
-- 🚀 **Goal:** To combine robust backend systems with intelligent AI models
+## Let's Connect
+If you want to talk about data, tech, or potential opportunities, feel free to reach out!
+- **LinkedIn:** [Seifeddine Bengana](https://www.linkedin.com/in/seifeddinebengana)
 
 ---
-
-## 📫 Connect with Me
-
-Feel free to connect or follow my journey!  
-[LinkedIn](https://www.linkedin.com/in/seifeddinebengana)
+*Check out my pinned repositories below to see some of my code.*
